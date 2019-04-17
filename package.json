@@ -4,7 +4,8 @@
   "description": "",
   "main": "findSum.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "travis": "npm test -- --coverage"
   },
   "repository": {
     "type": "git",
