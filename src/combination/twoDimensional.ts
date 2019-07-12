@@ -9,7 +9,7 @@ const twoDimensional = <T>(
 ): Array<Array<T>> => {
   if (!items || items.length === 0) return [prepend];
 
-  let out = [];
+  let out: any[] | never[] | T[][] = [];
 
   for (let i = 0; i < items[0].length; i++) {
     out = [

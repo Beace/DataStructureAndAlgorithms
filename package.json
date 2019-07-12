@@ -5,7 +5,8 @@
   "main": "findSum.js",
   "scripts": {
     "test": "jest",
-    "travis": "npm test -- --coverage"
+    "travis": "npm test -- --coverage",
+    "doc": "typedoc --out ./docs ./src"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
     "@types/jest": "^24.0.11",
     "jest": "^24.7.1",
     "ts-jest": "^24.0.2",
+    "typedoc": "^0.14.2",
     "typescript": "^3.4.3"
   }
 }

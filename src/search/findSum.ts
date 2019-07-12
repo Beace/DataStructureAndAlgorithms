@@ -54,7 +54,7 @@ export default class FindSum {
    * @memberof FindSum
    */
   findPairWithSumByHash(sum: number): Boolean {
-    let map: Object = {};
+    let map: any = {};
     for (let i = 0; i < this.arr.length; i++) {
       if (map[sum - this.arr[i]]) {
         return true;
