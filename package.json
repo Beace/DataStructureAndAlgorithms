@@ -1,7 +1,7 @@
 {
   "name": "DataStructureAndAlgorithms",
   "version": "1.0.0",
-  "description": "",
+  "description": "DataStructureAndAlgorithms",
   "main": "findSum.js",
   "scripts": {
     "test": "jest",
@@ -11,7 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/BeAce/DataStructureAndAlgorithms.git"
   },
-  "keywords": [],
+  "keywords": [
+    "DataStructureAndAlgorithms"
+  ],
   "author": "BeAce <beaceshimin@gmail.com>",
   "license": "MIT",
   "bugs": {
