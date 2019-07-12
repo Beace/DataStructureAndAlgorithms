@@ -12,8 +12,8 @@
     "url": "git+https://github.com/BeAce/DataStructureAndAlgorithms.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "BeAce <beaceshimin@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/BeAce/DataStructureAndAlgorithms/issues"
   },
